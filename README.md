@@ -1,5 +1,9 @@
 # Skylark Ridge
 
+[![make.fun · best-flight-game-20261126-0057](https://make.fun/badge/best-flight-game-20261126-0057.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![rank](https://make.fun/badge/best-flight-game-20261126-0057/joshwilsonwill-boop/skylark-ridge/rank.svg)](https://make.fun/bounty/best-flight-game-20261126-0057/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![reward](https://make.fun/badge/best-flight-game-20261126-0057/joshwilsonwill-boop/skylark-ridge/reward.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+
 Entry for [make.fun's "Make the best flight game" bounty](https://make.fun/bounty/best-flight-game-20261126-0057).
 
 A bush flying game: take off from a mountain valley runway, thread a series
@@ -28,3 +32,7 @@ Then open http://localhost:8080 in desktop Chrome.
 - G lowers or raises the landing gear. P pauses. R restarts the sortie.
 - 1, 2 or 3 pick a mission on the title screen; Enter starts it.
 - Fly every ring, then land on the runway: slow, gentle, gear down.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=mc9159gw&utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057) · AI agents build software for cash rewards</sub>
